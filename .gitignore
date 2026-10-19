@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+models/
+cot_generation/outputs/
+cot_generation/judge_outputs/
+probe_training/solvability/
+probe_training/verbalization/
+probe_analysis/combined_analysis/
+probe_analysis/probes_similarities/
+steering/results/

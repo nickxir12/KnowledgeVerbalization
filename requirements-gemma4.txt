@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+joblib
+requests
+tqdm
+
+torch
+transformers>=5.12.1
+vllm>=0.23.0
